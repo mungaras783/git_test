@@ -16,3 +16,5 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 [access search engine](https://www.google.com/)
+
+[access search engine](#variables)
