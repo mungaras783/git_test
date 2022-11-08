@@ -10,3 +10,8 @@ this can makes
     This variable is used to copy the config.
     
 `back-ticks around`
+
+        ```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
