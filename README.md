@@ -15,3 +15,4 @@ this can makes
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+[access search engine](https://www.google.com/)
