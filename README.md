@@ -11,7 +11,7 @@ this can makes
     
 `back-ticks around`
 
-        ```javascript
+ ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
