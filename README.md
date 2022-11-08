@@ -8,4 +8,5 @@ this can makes
     Testing Second line.
 ### Third Line
     Testing third line. 
-Inline `code` has `back-ticks around` it.
+`code`
+`back-ticks around`
